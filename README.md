@@ -15,7 +15,7 @@ https://docs.aws.amazon.com/global-accelerator/latest/dg/getting-started-standar
 
 https://aws.amazon.com/containers/
 
--
+
 explanation:
 The task at hand when creating an e-commerce website is high availability, fault tolerance, secure and accurate transaction, and high speed as well. 
 To do all this, I started by planning a multi-regional setup, as well as a multi-AZ setup within those regions. 
