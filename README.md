@@ -17,3 +17,6 @@ https://aws.amazon.com/containers/
 
 -
 explanation:
+The task at hand when creating an e-commerce website is high availability, fault tolerance, secure and accurate transaction, and high speed as well. 
+To do all this, I started by planning a multi-regional setup, as well as a multi-AZ setup within those regions. 
+I than decided to implement a WAF to enhance security and protection against DDoS to ensure uptime as well as Global accelerator that would help route traffic for clients wherever they are in the world to have the best and fastest service. And this last point is the reason why I chose AWS, as they have the largest footprint in the world when it comes to data centers and POP's. 
